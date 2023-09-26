@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Personal project configuration
+todo.md
